@@ -9,7 +9,7 @@ Google colab
 
 # Program
 
-1.Impulse sampling
+# 1.Impulse sampling
 
 import numpy as np
 
@@ -157,7 +157,7 @@ plt.legend()
 plt.show()
 
 
-2. Natural sampling
+# 2. Natural sampling
    
 import numpy as np
 import numpy as np
@@ -277,7 +277,7 @@ plt.tight_layout()
 plt.show()
 
 
-3. Flat-top sampling
+# 3. Flat-top sampling
 
 import numpy as np
 
